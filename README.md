@@ -1,27 +1,25 @@
 # Election_Analysis
 
+## Purpose of Analysis
 The purpose of the election audit analysis is to format the data given to us and determine the number of votes given to each canditate and how many votes were given from each county to determine the largest county turnout and the winning canditate. 
 
-Election Results
--------------------------
+## Election Results
 Total Votes: 369,711
--------------------------
 
-County Votes:
-Jefferson: 10.5% (38,855)
-Denver: 82.8% (306,055)
-Arapahoe: 6.7% (24,801)
--------------------------
+County Votes:\
+Jefferson: 10.5% (38,855)\
+Denver: 82.8% (306,055)\
+Arapahoe: 6.7% (24,801)\
 Largest County Turnout: Denver
--------------------------
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
+
+Canditate Votes:\
+Charles Casper Stockham: 23.0% (85,213)\
+Diana DeGette: 73.8% (272,892)\
 Raymon Anthony Doane: 3.1% (11,606)
--------------------------
-Winner: Diana DeGette
-Winning Vote Count: 272,892
+
+Winner: Diana DeGette\
+Winning Vote Count: 272,892\
 Winning Percentage: 73.8%
--------------------------
 
 - 369,711 votes were cast in congressional election
 - 38,855 votes were cast in Jefferson representing 10.5% of the voter pool
